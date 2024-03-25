@@ -1,0 +1,12 @@
+{
+  "name": "your-application-name",
+  "version": "1.0.0",
+  "description": "Description of your application",
+  "main": "server.js", // Change this if your main file has a different name
+  "scripts": {
+    "start": "node server.js" // Change this if your main file has a different name
+  },
+  "dependencies": {
+    // Add your dependencies here
+  }
+}
